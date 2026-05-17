@@ -157,7 +157,6 @@ Contributions are welcome.
 
 Shivam Shukla
 
-- GitHub: https://github.com/Marvel0007
 - Website Link: https://examnotesaiclient-s908.onrender.com
 
 ---
