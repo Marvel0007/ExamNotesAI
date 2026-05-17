@@ -140,18 +140,6 @@ npm run dev
 
 ---
 
-## 🤝 Contributing
-
-Contributions are welcome.
-
-1. Fork the project
-2. Create your feature branch
-3. Commit changes
-4. Push to branch
-5. Open a Pull Request
-
----
-
 
 ## 👨‍💻 Author
 
